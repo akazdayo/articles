@@ -11,7 +11,7 @@ published: true
 https://zenn.dev/akazdayo/articles/de24987d4b11a8
 
 ## 環境
-![fastfetch](../images/linux-vivecraft/kankyo.png)
+![fastfetch](/images/linux-vivecraft/kankyo.png)
 Minecraft・MODバージョンは多分関係ない。Launcherはシステムインストール(flatpakではない)のPrism Launcherを使用。
 
 :::message alert
